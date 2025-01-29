@@ -13,7 +13,7 @@ Basic Human Face Recognition using OpenCV📷
 
 
 
-➤technologies used : Opencv from -
+➤technologies used : Opencv Human Face Detection module from -
 
 https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 

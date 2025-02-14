@@ -1,5 +1,5 @@
 # Face-Recognition
-Basic Human Face Recognition using OpenCV📷
+Human Face Recognition using OpenCV📷
 <hr>
 <h4>It can detect human face when the webcam is opened</h4>
 
